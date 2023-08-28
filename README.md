@@ -1,6 +1,10 @@
 # Simple Calculator App Documentation
 
 Welcome to the comprehensive documentation for the Simple Calculator App. In this guide, you will find detailed explanations of the app's features, code structure, and usage.
+![image](https://github.com/suraiya-jahan-bhuiyan-sraboni/Simple-Calculator-App/assets/85396098/669d98f6-8b53-435c-a9bd-1e3d1e6b8fb8)
+![image](https://github.com/suraiya-jahan-bhuiyan-sraboni/Simple-Calculator-App/assets/85396098/f4f41c05-dda2-41a8-88a2-df39ac013f33)
+
+
 
 ## Table of Contents
 1. **Introduction**
